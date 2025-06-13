@@ -1,1 +1,2 @@
-https://github.com/mogaredatta72/HR_Analytics_Dashboard-Excel/blob/main/Screenshot%202025-06-14%20005915.png?raw=true
+![image alt](https://github.com/user-attachments/assets/58b91245-ba08-4211-8825-68e6c438d6e9)
+
